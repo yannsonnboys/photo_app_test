@@ -233,9 +233,6 @@ GEM
       actionpack (>= 6.0.0)
       activejob (>= 6.0.0)
       railties (>= 6.0.0)
-    turbolinks (5.2.1)
-      turbolinks-source (~> 5.2)
-    turbolinks-source (5.2.0)
     twitter-bootstrap-rails (5.0.0)
       actionpack (>= 5.0, < 8.0)
       execjs (~> 2.7)
@@ -287,7 +284,6 @@ DEPENDENCIES
   stimulus-rails
   stripe
   turbo-rails
-  turbolinks
   twitter-bootstrap-rails
   tzinfo-data
   web-console
