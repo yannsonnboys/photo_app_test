@@ -51,6 +51,9 @@ gem "devise-bootstrap-views"
 gem 'jquery-rails'
 #gem 'turbolinks'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
